@@ -17,8 +17,8 @@ This project demonstrates the **Otto Robot**, a small walking robot capable of s
 
 ## How to View
 
-- Open the GitHub repository to download the files: [GitHub Repository](file:///C:/Users/alyan/Desktop/robotics%20project/index.html)
+- Open the GitHub repository to download the files: [GitHub Repository]https://github.com/alyana-roja/Otto-Robot.git
 - Optional: Open the `index.html` file in a browser to view the report and video together.
 - If GitHub Pages is enabled, visit the project page online:  
-  `https://YOUR
+https://github.com/alyana-roja/Otto-Robot.git
 
